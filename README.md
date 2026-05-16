@@ -2,6 +2,9 @@
 
 An automated system for real-time detection and localization of cigarette butts. This project combines state-of-the-art Computer Vision (YOLOv8/v11), high-performance inference on Linux, and a dedicated mobile solution for Android.
 
+
+<img width="414" height="540" alt="Screen_Recording_20260516_063522_CigDeetctor_2(1)" src="https://github.com/user-attachments/assets/5d541c24-2040-48ea-ab7f-be597283c32a" />
+
 ---
 
 ## 🌟 Key Features
